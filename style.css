@@ -26,7 +26,7 @@ body {
     .header {
         text-align: center;
     }
-    
+
 }
 
 .main {
@@ -46,16 +46,16 @@ body {
 }
 
 ul {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
 li, h3 {
-    list-style:none;
+    list-style: none;
 }
 
-input,button{
-    outline:none;
+input, button {
+    outline: none;
 }
 
 button {
