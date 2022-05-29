@@ -54,7 +54,8 @@ li, h3 {
     list-style: none;
 }
 
-input, button {
+input, 
+button {
     outline: none;
 }
 
@@ -164,7 +165,8 @@ button:hover {
 
 /* Completed */
 
-.completed-tasks label.main__task-label {
+.completed-tasks label
+.main__task-label {
     text-decoration: line-through;
     color: #888;
 }
@@ -175,7 +177,8 @@ li input.main__task-input {
     display: none;
 }
   
-.main__list-item--edit .main__task-input {
+.main__list-item--edit
+.main__task-input {
     display: inline-block;
     width: 224px;
 }
